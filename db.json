@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "login": "luisfernandovl",
+      "id": 1,
+      "avatar_url": "https://avatars.githubusercontent.com/u/76924924?v=4",
+      "name": "Luis Fernando V. Leal",
+      "email": "teste@gmail.com",
+      "followers": 404,
+      "following": 200
+    },
+    {
+      "login": "andreocunha",
+      "id": 2,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4",
+      "name": "André Oliveira Cunha",
+      "email": "andre@email.com",
+      "followers": 43,
+      "following": 54
+    },
+    {
+      "login": "nataliakt",
+      "id": 3,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4",
+      "name": "Natalia Kelim Thiel",
+      "email": "natalia@email.com",
+      "followers": 51,
+      "following": 7
+    }
+  ],
+  "repos": [
+    {
+      "name": "alura-hub",
+      "data": "1 de jan. de 2023",
+      "postId": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "projeto-notas",
+      "data": "1 de jan. de 2023",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "name": "alura-commerce",
+      "data": "1 de jan. de 2023",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "name": "api-escolas",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "name": "Arduino_AVES_Telemetria",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 4,
+      "name": "bot_piano_tiles",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "name": "2048evolution",
+      "data": "1 de jan. de 2021",
+      "postId": 3,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "alura-pikachu",
+      "data": "1 de jan. de 2021",
+      "postId": 3
+    },
+    {
+      "id": 3,
+      "name": "alura-react-native-comecando-do-zero",
+      "data": "1 de jan. de 2021",
+      "postId": 3
+    },
+    {
+      "id": 5,
+      "name": "Alura_cursos",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    }
+  ]
+}
