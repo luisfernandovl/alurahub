@@ -12,7 +12,7 @@
 
 O AluraHub é uma aplicação feita em React Native que permite salvar informações. O app consome uma API externa, no caso, a API pública do Github ou uma fake API com json-server.
 
-Esse projeto foi desenvolvido durantes meus estudos na formação de React Native da plataforma da Alura. Especificamente neste curso:
+Esse projeto foi desenvolvido durante meus estudos na formação de React Native da plataforma da Alura. Especificamente neste curso:
 <a href="https://www.alura.com.br/curso-online-react-native-utilizando-web-api">React Native: utilizando Web API</a>
 
 Caso queira acessar o projeto diretamente do repositório da Alura, <a href="https://github.com/alura-cursos/react-native-ficando-online/tree/aula4">clique aqui.</a>
