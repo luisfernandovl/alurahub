@@ -38,8 +38,7 @@ $ npm install
 ### Edite o arquivo api.js
 
 ```bash
-# Em src/services/api.js substitua a baseURL pelo ip da sua máquina
-# para acessar com o celular através do App do Expo
+# Em src/services/api.js substitua a baseURL pelo ip da sua máquina para acessar com o celular através do App do Expo
 baseURL: "http://192.168.15.43:3000"
 ```
 
