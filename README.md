@@ -39,7 +39,7 @@ $ npm install
 
 ```bash
 # Em src/services/api.js substitua a baseURL pelo ip da sua máquina
-para acessar com o celular através do App do Expo
+# para acessar com o celular através do App do Expo
 baseURL: "http://192.168.15.43:3000"
 ```
 
